@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+  
 }
+
+/* Otras formas de utilizar template en ligar de templateUrl */
+//template:'<span>Eder</span>'
+  /* template:`
+    <h1>Hola de nuevo</h1>
+  `*/
